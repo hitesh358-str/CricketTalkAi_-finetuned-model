@@ -1,0 +1,39 @@
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python cache & bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables & secrets
+.env
+.env.*
+!.env.example
+
+# Model checkpoints & weights
+checkpoints/
+models/
+*.pt
+*.pth
+*.bin
+*.safetensors
+
+# Generated output files & logs
+outputs/
+reports/outputs/
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Testing & coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Operating system files
+.DS_Store
+Thumbs.db
