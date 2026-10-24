@@ -1,7 +1,7 @@
 # 🏏 CricketTalk AI
 
 ### Fine-Tuning a Language Model to Answer Everyday Questions in Cricket Commentary Style
-**Author:** Hitesh Ilamkar
+
 
 CricketTalk AI is an experimental AI project that fine-tunes a small open-weight language model to answer general, non-cricket questions in the style of cricket commentary while preserving factual correctness and practical usefulness.
 
